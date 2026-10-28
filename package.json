@@ -1,0 +1,11 @@
+{
+  "name": "ray.idk",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "better-sqlite3": "^11.3.0",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0"
+  }
+}
